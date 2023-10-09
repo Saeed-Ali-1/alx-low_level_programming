@@ -4,7 +4,8 @@
 /**
  * main - start point
  *
- * Description : positive or negative
+ * description: positive or negative
+ *
  * Return : 0 (success)
  */
 int main(void)
