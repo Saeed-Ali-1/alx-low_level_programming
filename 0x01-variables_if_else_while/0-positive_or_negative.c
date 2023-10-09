@@ -6,7 +6,7 @@
  *
  * description: positive or negative
  *
- * return: 0 (success)
+ * The main() function returns 0 on success and a non-zero value on failure.
  */
 int main(void)
 {
