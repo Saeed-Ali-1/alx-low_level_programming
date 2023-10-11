@@ -1,11 +1,12 @@
 #include "main.h"
+
 /**
- * main - start point
+ * main - Entry point
  *
- * description: positive or negative
+ * Description: prints _putchar through putchar prototype
  *
- * Return: 0 (success)
- */
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {
@@ -13,9 +14,8 @@ int main(void)
 	int ch;
 
 	for (ch = 0; ch < 8; ch++)
-	{
 		_putchar(str[ch]);
-	}
-	_putchar('\n')
+	_putchar('\n');
+
 	return (0);
 }
