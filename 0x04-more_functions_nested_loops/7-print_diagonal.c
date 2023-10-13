@@ -3,6 +3,8 @@
 /**
  * print_diagonal - print a diagonal line
  *
+ * description: this function prints a diagnal
+ *
  * @n: is the number of time the \ character
  *	should be printed
 */
